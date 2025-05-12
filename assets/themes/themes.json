@@ -3,18 +3,18 @@
     "darkTheme": true,
     "useMica": false,
     "identifier": "xmc.dark",
-    "cssFilePath": "ImmersiveDarkTheme.css"
+    "cssFilePath": "assets/themes/ImmersiveDarkTheme.css"
   },
   "ImmersiveDarkTheme": {
     "darkTheme": true,
     "useMica": true,
     "identifier": "xmc.immersive_dark",
-    "cssFilePath": "ImmersiveDarkTheme.css"
+    "cssFilePath": "assets/themes/ImmersiveDarkTheme.css"
   },
   "MicaLightTheme": {
     "darkTheme": false,
     "useMica": true,
     "identifier": "xmc.mica_light",
-    "cssFilePath": "MicaLightTheme.css"
+    "cssFilePath": "assets/themes/MicaLightTheme.css"
   }
 }
