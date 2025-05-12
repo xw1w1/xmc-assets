@@ -1,0 +1,16 @@
+{
+  "themes" : {
+    "themes": "assets/themes/themes.json",
+    "xmc.immersive_dark": "assets/themes/ImmersiveDarkTheme.css",
+    "xmc.mica_light": "assets/themes/MicaLightTheme.css"
+  },
+  "lang": {
+    "xmc.lang.ru": "assets/translations/ru_ru.json",
+    "xmc.lang.en": "assets/translations/en_en.json"
+  },
+  "defaults": {
+    "keys-for-preferences": "value",
+    "another-key": "value"
+  },
+  "libs": {}
+}

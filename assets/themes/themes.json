@@ -1,0 +1,14 @@
+{
+  "DarkTheme" : {
+    "identifier": "xmc.dark",
+    "cssFilePath": "ImmersiveDarkTheme.css"
+  },
+  "ImmersiveDarkTheme": {
+    "identifier": "xmc.immersive_dark",
+    "cssFilePath": "ImmersiveDarkTheme.css"
+  },
+  "MicaLightTheme": {
+    "identifier": "xmc.mica_light",
+    "cssFilePath": "MicaLightTheme.css"
+  }
+}
