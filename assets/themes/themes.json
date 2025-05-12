@@ -3,18 +3,21 @@
     "darkTheme": true,
     "useMica": false,
     "identifier": "xmc.dark",
-    "cssFilePath": "assets/themes/ImmersiveDarkTheme.css"
+    "cssFilePath": "assets/themes/ImmersiveDarkTheme.css",
+    "backgroundColor": "#262626"
   },
   "ImmersiveDarkTheme": {
     "darkTheme": true,
     "useMica": true,
     "identifier": "xmc.immersive_dark",
-    "cssFilePath": "assets/themes/ImmersiveDarkTheme.css"
+    "cssFilePath": "assets/themes/ImmersiveDarkTheme.css",
+    "backgroundColor": "#262626"
   },
   "MicaLightTheme": {
     "darkTheme": false,
     "useMica": true,
     "identifier": "xmc.mica_light",
-    "cssFilePath": "assets/themes/MicaLightTheme.css"
+    "cssFilePath": "assets/themes/MicaLightTheme.css",
+    "backgroundColor": "#262626"
   }
 }
