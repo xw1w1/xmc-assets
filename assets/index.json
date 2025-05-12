@@ -5,8 +5,8 @@
     "xmc.lang.en": "assets/translations/en_en.json"
   },
   "defaults": {
-    "keys-for-preferences": "value",
-    "another-key": "value"
+    "launcher.theme": "xmc.dark",
+    "launcher.lang": "xmc.lang.en"
   },
   "libs": {}
 }
