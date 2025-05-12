@@ -1,13 +1,19 @@
 {
   "DarkTheme" : {
+    "darkTheme": true,
+    "useMica": false,
     "identifier": "xmc.dark",
     "cssFilePath": "ImmersiveDarkTheme.css"
   },
   "ImmersiveDarkTheme": {
+    "darkTheme": true,
+    "useMica": true,
     "identifier": "xmc.immersive_dark",
     "cssFilePath": "ImmersiveDarkTheme.css"
   },
   "MicaLightTheme": {
+    "darkTheme": false,
+    "useMica": true,
     "identifier": "xmc.mica_light",
     "cssFilePath": "MicaLightTheme.css"
   }
