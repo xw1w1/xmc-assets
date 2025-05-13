@@ -2,7 +2,7 @@
   "themes": "assets/themes/themes.json",
   "libraries": "assets/libraries/librares.json",
   "translations": "assets/translations/translations.json",
-  "launcherDefaults": {
+  "defaults": {
     "launcher.theme": "xmc.dark",
     "launcher.lang": "xmc.lang.en"
   },
