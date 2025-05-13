@@ -1,9 +1,6 @@
 {
   "themes": "assets/themes/themes.json",
-  "lang": {
-    "xmc.lang.ru": "assets/translations/ru_ru.json",
-    "xmc.lang.en": "assets/translations/en_en.json"
-  },
+  "translations": "assets/translations/translations.json",
   "defaults": {
     "launcher.theme": "xmc.dark",
     "launcher.lang": "xmc.lang.en"
