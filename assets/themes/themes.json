@@ -24,7 +24,7 @@
     "darkTheme": false,
     "useMica": false,
     "identifier": "xmc.test_theme",
-    "cssFilePath": "assets/themes/TestingThemes.css"
+    "cssFilePath": "assets/themes/TestingThemes.css",
     "backgroundFillColor": "#262626"
   }
 }
