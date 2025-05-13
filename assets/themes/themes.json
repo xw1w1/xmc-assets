@@ -19,5 +19,12 @@
     "identifier": "xmc.mica_light",
     "cssFilePath": "assets/themes/MicaLightTheme.css",
     "backgroundFillColor": "#262626"
+  },
+  "TestingThemes": {
+    "darkTheme": false,
+    "useMica": false,
+    "identifier": "xmc.test_theme",
+    "cssFilePath": "assets/themes/TestingThemes.css"
+    "backgroundFillColor": "#262626"
   }
 }
