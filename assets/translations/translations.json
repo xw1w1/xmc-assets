@@ -1,10 +1,12 @@
 {
-  "english": {
+  "English": {
     "identifier": "xmc.lang.en",
+    "displayName": "English",
     "translationsFilePath": "assets/translations/en_en.json"
   },
-  "russian": {
+  "Russian": {
     "identifier": "xmc.lang.ru",
+    "displayName": "Русский"
     "translationsFilePath": "assets/translations/ru_ru.json"
   }
 }
