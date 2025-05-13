@@ -6,7 +6,7 @@
   },
   "Russian": {
     "identifier": "xmc.lang.ru",
-    "displayName": "Русский"
+    "displayName": "Русский",
     "translationsFilePath": "assets/translations/ru_ru.json"
   }
 }
