@@ -1,6 +1,6 @@
 {
   "themes": "assets/themes/themes.json",
-  "libraries": "assets/libraries/libraries.json",
+  "images": "assets/images/images.json",
   "translations": "assets/translations/translations.json",
   "defaults": {
     "launcher.theme": "xmc.dark",
