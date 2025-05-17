@@ -1,9 +1,9 @@
 .root {
-   -AccentColorMain: 
-   -AccentColorSub:
-   -BackgroundColor:
-   -BackgroundColorSub:
-   -ShadowColor: 
+   -AccentColorMain: #262626;
+   -AccentColorSub: #262626;
+   -BackgroundColor: #262626;
+   -BackgroundColorSub: #262626;
+   -ShadowColor: #262626;
 }
 
 .native-navbar {
