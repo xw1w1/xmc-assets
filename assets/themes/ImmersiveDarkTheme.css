@@ -11,9 +11,9 @@
 }
 
 .home-button {
-   -fx-background-color: -BackgroundColorSub;
+   -fx-background-color: -AccentColorMain, -BackgroundColorSub, -BackgroundColorCub;
    -fx-background-radius: 15;
-   -fx-border-color: -BackgroundColor;
+   -fx-border-color: -BackgroundColor, -BackgroundColor, -BackgroundColor;
    -fx-border-radius: 5, 5, 4;
    -fx-padding:.333333em .333333em .333333em .333333em;
 }
