@@ -6,7 +6,7 @@
     "cssFilePath": "assets/themes/ImmersiveDarkTheme.css",
     
     "backgroundFillColor": "#262626",
-    "backgroundSubColor": "#262626",
+    "backgroundSubColor": "#1c1c1c",
     "shadowColor": "#000000"
   },
   "ImmersiveDarkTheme": {
@@ -16,7 +16,7 @@
     "cssFilePath": "assets/themes/ImmersiveDarkTheme.css",
     
     "backgroundFillColor": "#262626",
-    "backgroundSubColor": "#262626",
+    "backgroundSubColor": "#1c1c1c",
     "shadowColor": "#000000"
   },
   "MicaLightTheme": {
@@ -26,7 +26,7 @@
     "cssFilePath": "assets/themes/MicaLightTheme.css",
 
     "backgroundFillColor": "#262626",
-    "backgroundSubColor": "#262626",
+    "backgroundSubColor": "#1c1c1c",
     "shadowColor": "#000000"
   }
 }
