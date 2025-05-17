@@ -1,9 +1,9 @@
 .root {
-   -AccentColorMain: rgb(38, 38, 38);
-   -AccentColorSub: rgb(38, 38, 38);
-   -BackgroundColor: rgb(38, 38, 38);
-   -BackgroundColorSub: rgb(28, 28, 28);
-   -ShadowColor: rgb(0, 0, 0);
+   -AccentColorMain: #262626;
+   -AccentColorSub: #262626;
+   -BackgroundColor: #262626;
+   -BackgroundColorSub: #1c1c1c;
+   -ShadowColor: #000000;
 }
 
 .navbar {
