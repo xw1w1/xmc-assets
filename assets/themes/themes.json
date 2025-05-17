@@ -35,7 +35,7 @@
     "identifier": "xmc.test_theme",
     "cssFilePath": "assets/themes/TestingThemes.css",
     
-    "backgroundFillColor": "#262626"
+    "backgroundFillColor": "#262626",
     "backgroundSubColor": "#262626",
     "shadowColor": "#000000"
   }
