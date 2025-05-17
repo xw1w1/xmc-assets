@@ -1,3 +1,15 @@
+.root {
+   -AccentColorMain: 
+   -AccentColorSub:
+   -BackgroundColor:
+   -BackgroundColorSub:
+   -ShadowColor: 
+}
+
 .native-navbar {
    -fx-background-color: transparent;
+}
+
+.home-button {
+   -fx-background-color: 
 }
