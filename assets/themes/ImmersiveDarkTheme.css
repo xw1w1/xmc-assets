@@ -17,3 +17,10 @@
    -fx-border-radius: 5, 5, 4;
    -fx-padding:.333333em .333333em .333333em .333333em;
 }
+
+.theme-box {
+   -fx-background-color: #424242;
+   -fx-background-radius: 10;
+   -fx-border-color: #262626, #262626, #262626;
+   -fx-border-radius: 5, 5, 4;
+}
