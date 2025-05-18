@@ -1,1 +1,6 @@
-{}
+{
+  "xmc.dark": "Тёмная",
+  "xmc.immersive_dark": "Глубокая тёмная",
+  "xmc.mica_light": "Светлая",
+  "xmc.theme.name": "{0} Theme"
+}
